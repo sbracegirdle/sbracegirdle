@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sbracegirdle
 - 👀 I’m interested in a wide variety of software engineering topics from front-end, to back-end, Cloud and DevOps.
-- 🌱 I’m currently learning about Golang, Ruby on Rails, distributed systems.
-- 💞️ I'm a Senior Software Engineer at GovConnex. I previously worked at Mechanical Rock and SEQTA Software. I've been working in senior and lead roles for the last 15+ years.
+- 🌱 I’m currently learning about Golang
+- 💞️ I'm a Senior Software Engineer at GovConnex. I previously worked at Mechanical Rock and SEQTA Software. I've been working in senior and lead roles for the majority of the last 20 years.
 - 📫 Visit my blog at https://letsbuild.cloud, which also has my contact details.
